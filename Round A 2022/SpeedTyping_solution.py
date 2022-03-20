@@ -2,7 +2,7 @@ for x in range(int(input())):
     print("Case #", end="")
     print(x+1, end="")
     print(": ", end="")
-    I1 = input()
+    I1 = input() #Issue in taking a input plz check
     P2 = input()
     
     m = len(I1)   
